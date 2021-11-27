@@ -2,3 +2,5 @@ __pycache__
 Downloads
 venv
 .git
+db.py
+
